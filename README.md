@@ -1,4 +1,4 @@
-# E-STORE
+# HAF-STORE
 
 ## Table of contents
 
@@ -8,8 +8,7 @@
 - [Technology](#technology)
 - [Features](#features)
 - [Database Models](#database)
-- [Color Palette](#colors)
-- [License](#license)
+
 
 ## Introduction
 
